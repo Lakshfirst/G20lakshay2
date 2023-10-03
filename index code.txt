@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+<head>
+<title>
+Home
+</title>
+
+</head>
+<body bgcolor="#BFE6CC">
+<article align="center" style="background-color:#303617">
+
+<img src="https://www.g20.org/content/dam/gtwenty/header-footer/header/g20-logo.png" width="1000" height="1000" style="filter:drop-shadow(30px 30px 30px yellow)">
+
+</article>
+
+<article style="padding-top:20px;align="center">
+
+<li style="display:inline-block;"><button onclick="document.location='index.html' " style="color:#800020;background-color:#89CFF0;font-size:30px;font-family: 'Brush Script mt', cursive;background: linear-gradient(180deg,blue, seagreen );border:5px solid black;">HOME</button></li>
+<li style="display:inline-block;"><button onclick="document.location='#' " style="color:#800020;background-color:#89CFF0;font-size:30px;font-family: 'Brush Script mt', cursive;background: linear-gradient(180deg,blue, seagreen );border:5px solid black;">About G20</button></li>
+<li style="display:inline-block;"><button onclick="document.location='#' " style="color:#800020;background-color:#89CFF0;font-size:30px;font-family: 'Brush Script mt', cursive;background: linear-gradient(180deg,blue, seagreen );border:5px solid black;">G20 India 2023</button></li>
+<li style="display:inline-block;"><button onclick="document.location='#' " style="color:#800020;background-color:#89CFF0;font-size:30px;font-family: 'Brush Script mt', cursive;background: linear-gradient(180deg,blue, seagreen );border:5px solid black;">G20 Summit 2023</button></li>
+<li style="display:inline-block;"><button onclick="document.location='#' " style="color:#800020;background-color:#89CFF0;font-size:30px;font-family: 'Brush Script mt', cursive;background: linear-gradient(180deg,blue, seagreen );border:5px solid black;">Explore India</button></li>
+
+</article>
+
+
+<img src="https://www.samaa.tv/images/narendra-modi-g20-summit.gif" width="600" align="center" style="padding-right:40px;padding-left:90px;padding-top:20px;padding-bottom:20px;">
+</body>
+</html>
+
